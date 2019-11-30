@@ -1,0 +1,38 @@
+.section-padding {
+  padding: 100px 0;
+}
+
+.google-div {
+  width: 100%;
+  height: 300px;
+}
+
+.code-generate-area {
+  display: flex;
+  align-items: center;
+}
+
+.code-generate-area h3 {
+  margin-left: 50px;
+}
+
+.invalid-feedback {
+  display: block !important;
+}
+
+.code-submit-area .md-form .form-control {
+  margin: 0 !important;
+}
+
+.code-submit-area .md-form {
+  margin: 0 !important;
+}
+
+.charging-point {
+  color: #fff;
+}
+
+.charging-point:hover {
+  color: #fff;
+  text-transform: none;
+}
